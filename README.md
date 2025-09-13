@@ -25,6 +25,8 @@
 
 ## Stats
 
+<br>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -46,6 +48,12 @@
 </table>
 <!--- stats (end) -->
 
+<br>
+
+## Trophy
+
+<br>
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -58,6 +66,7 @@
 </p>        
 <!--- stats (end) -->
 
+## Skills
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
