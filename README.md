@@ -21,6 +21,8 @@
 
 🌟 Main languages: Flutter, Dart, Java, JavaScript, TypeScript, HTML, CSS and etc.
 
+💈 QA: Bug Report(Jira), Test Case Design, Manual Testing, API Testing and etc.
+
 🚩 Interested in Full-Stack Development, Mobile App Development, and Tech Content Creation.
 
 🤔 I’m currently open for new collaborations, freelance projects, or job opportunities.
